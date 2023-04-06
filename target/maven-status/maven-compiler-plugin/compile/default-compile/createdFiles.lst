@@ -1,0 +1,4 @@
+com\udemy\microservices\mobileapp\MobileAppApplication.class
+com\udemy\microservices\mobileapp\ws\request\UserDetailRequest.class
+com\udemy\microservices\mobileapp\ws\model\User.class
+com\udemy\microservices\mobileapp\ws\ui\controller\UserController.class

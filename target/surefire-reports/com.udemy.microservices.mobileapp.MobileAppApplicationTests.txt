@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.udemy.microservices.mobileapp.MobileAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.053 s - in com.udemy.microservices.mobileapp.MobileAppApplicationTests
